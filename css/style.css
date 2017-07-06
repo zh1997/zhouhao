@@ -141,24 +141,12 @@ html,body{
 }
 .dong1{
 	position: absolute;
-	top:0%;
+	width:50%;
+	height:30%;
+	top:50%;
 	left:10%;
 }
-.dong2{
-	position: absolute;
-	top:0%;
-	left:50%;
-}
-.dong3{
-	position: absolute;
-	top:70%;
-	left:10%;
-}
-.dong4{
-	position: absolute;
-	top:70%;
-	left:50%;
-}
+
 /*4*/
 .page_3{
 	text-align: center;
